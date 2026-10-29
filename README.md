@@ -1,5 +1,5 @@
 # Luluk Rover - Omnidirectional FPV Robot
-#### Video Demo:  <YOUR_YOUTUBE_VIDEO_LINK_HERE>
+#### Video Demo:  <https://youtube.com/shorts/hNxnqqD6b4w?si=cQCvWTlvz-cc4uz7>
 #### Description:
 
 Luluk Rover is an omnidirectional, FPV (First Person View) robotic vehicle designed as my final project for CS50. The core idea behind this project was to integrate hardware engineering with full-stack web development to create a seamless remote-controlled experience over a local Wi-Fi network.
